@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @eyemabhishek
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Abhishek
+- 👀 I’m interested in Web Development And App Development
+- 🌱 Learning is never ending loop
+- 💞️ I’m ready collaborate on project based upon web development
+- 📫 You can reach me via eyemabhishek@gmail.com | 9606736098
 
 <!---
 eyemabhishek/eyemabhishek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
