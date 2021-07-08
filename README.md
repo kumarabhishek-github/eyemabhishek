@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek
 - 👀 I’m interested in Web Development And App Development
-- 🌱 Learning is never ending loop
+- 🌱 Learning...
 - 💞️ I’m ready collaborate on project based upon web development
 - 📫 You can reach me via eyemabhishek@gmail.com | 9606736098
 
