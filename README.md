@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhishek
-- 👀 I’m interested in Web Development And App Development
+- 👀 I’m interested in Web and App Development
 - 🌱 Learning...
-- 💞️ I’m ready collaborate on project based upon web development
+- 💞️ I’m ready to collaborate on project based upon web development
 - 📫 You can reach me via eyemabhishek@gmail.com | 9606736098
 
 <!---
