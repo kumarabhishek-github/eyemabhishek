@@ -19,4 +19,5 @@ Skills:  REACT / JS / HTML / CSS /NODE/EXPRESS/MONGO DB
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=eyemabhishek)  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
