@@ -10,7 +10,7 @@ I'm a software engineer who is passionate about technology , creating technology
 
 
 
-**word**
+**Skills**
 
 
 
