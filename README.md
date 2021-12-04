@@ -8,14 +8,13 @@
 
 I'm a software engineer who is passionate about technology , creating technology to elevate people, and building community.  Technologies I enjoy working with include ReactJS, Node Js, MongoDB,Express Js, JavaScript,  and APIs. 
 
-Skills: MONGO DB / EXPRESS JS / NODE/ REACT / JS / HTML / CSS /REST API
+Skills: MONGO DB / EXPRESS JS / NODE/ REACT / JS / HTML / CSS /REST API / Blockchain 
 
-**Tools and Technology**
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/abhishekaarav10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishekaarav10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eyemabhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eyemabhishek" height="30" width="40" /></a>
