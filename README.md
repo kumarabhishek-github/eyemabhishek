@@ -27,7 +27,6 @@ Skills: MONGO DB / EXPRESS JS / NODE/ REACT / JS / HTML / CSS /REST API
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyemabhishek&show_icons=true&theme=radical)
 
 
 
