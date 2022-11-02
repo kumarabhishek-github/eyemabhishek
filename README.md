@@ -1,19 +1,9 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+I'm a software engineer who is passionate about technology , creating technology to elevate people, and building community. 
 
-
-
-
-
-I'm a software engineer who is passionate about technology , creating technology to elevate people, and building community.  Technologies I enjoy working with include ReactJS, Node Js, MongoDB,Express Js, JavaScript, and Blockchain .
-
-
-- 🔭 I’m currently working on **CodePay | PWA Qr Pay App**
-
-- 🌱 I’m currently learning **BlockChain Full stack Dapp**
-
-- 👯 I’m looking to collaborate on **MERN Full Stack Projects**
+- 👯 I’m looking to collaborate on **MERN Stack Projects**
 
 - 📫 How to reach me **abhishekkumar3q@gmail.com**
 
